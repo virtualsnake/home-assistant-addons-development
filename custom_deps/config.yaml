@@ -26,4 +26,3 @@ schema:
   - str
   apk:
   - str
-image: homeassistant/{arch}-addon-dev-custom_deps
